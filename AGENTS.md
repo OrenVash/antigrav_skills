@@ -1,0 +1,1 @@
+- Never delete files without explicit permission.
